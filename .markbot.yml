@@ -1,0 +1,38 @@
+repo: 'html-writer'
+canvasCourse: ''
+canvasAssignment: ''
+
+naming: true
+liveWebsite: true
+
+git:
+  numCommits: 2
+  allCommitted: true
+  allSynced: true
+
+html:
+  - path: 'index.html'
+    valid: true
+    bestPractices: true
+    outline: true
+    has:
+      - 'h1'
+      - 'p'
+      - 'strong'
+      - 'article'
+      - 'dl'
+      - 'ol'
+      - 'ul'
+      - 'header'
+      - 'footer'
+    has_not:
+      - 'link[rel="stylesheet"]'
+    search:
+      - 'Super Epic Tile Layer'
+      - '\$35'
+      - 'Average Rating'
+      - 'Add to Whishlist\!'
+      - 'Egyptian God'
+      - 'AwesomeSpiel'
+      - '2012 Spiel of the Year Winner'
+      - 'Thomas Schweitzer'
