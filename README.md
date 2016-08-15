@@ -5,7 +5,7 @@
 
 ---
 
-**Quick project summary shown here.**
+**Write all the necessary HTML for the content in the Semantics Schemantics group activity.**
 
 - *Fork this repository.*
 - Write all the HTML necessary for the page content—**concentrating only on semantics, not look**.
