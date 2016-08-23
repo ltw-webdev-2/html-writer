@@ -1,11 +1,12 @@
-# HTML writer
-
-- Approx. completion time: **1 hour**
-- Deliverables: **1 HTML file, images**
-
+---
+summary: 'Write all the necessary HTML for the content in the Semantics Schemantics group activity.'
+time: '1 hour'
+deliverables: '1 HTML file, images'
 ---
 
-**Write all the necessary HTML for the content in the Semantics Schemantics group activity.**
+# HTML writer
+
+## Overview
 
 - *Fork this repository.*
 - Write all the HTML necessary for the page content—**concentrating only on semantics, not look**.
