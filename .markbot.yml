@@ -1,5 +1,5 @@
 repo: 'html-writer'
-canvasCourse: 'web-dev-3'
+canvasCourse: 'web-dev-2'
 
 naming: true
 liveWebsite: true
@@ -30,7 +30,7 @@ html:
       - 'Super Epic Tile Layer'
       - '\$35'
       - 'Average Rating'
-      - 'Add to Whishlist\!'
+      - 'Add to Wishlist\!'
       - 'Egyptian God'
       - 'AwesomeSpiel'
       - '2012 Spiel of the Year Winner'
